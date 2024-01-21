@@ -1,4 +1,6 @@
 ### Hi there 👋
+I am a software developer from İzmir, Tukey.
+I have developed projects with React Native and Unity using C#. 
 
 <!--
 **sevinc01/sevinc01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
